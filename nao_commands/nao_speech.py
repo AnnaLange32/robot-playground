@@ -7,7 +7,7 @@ import time
 def main():
 
 
-	IP, PORT = "172.20.10.5", 9559 
+	IP, PORT = "130.149.244.203", 9559 
 	tts = ALProxy("ALTextToSpeech", IP, PORT)
 	animation = ALProxy("ALAnimationPlayer", IP, PORT)
 	posture = ALProxy("ALRobotPosture", IP, PORT)
@@ -17,7 +17,7 @@ def main():
 	#user_msg2 = "Before starting, I would like to ask a question."
 	#animation.run("animations/Stand/Gestures/Give_3", _async=True)
 
-	user_msg3 = "Hello Hanna, how was your work today?"
+	user_msg3 = "When I first met my spottie ottie dopalicious angel."
 	
 	#tts.say(str(user_msg)
 	#tts.say(str(user_msg2))
