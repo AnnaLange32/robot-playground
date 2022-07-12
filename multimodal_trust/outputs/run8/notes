@@ -1,0 +1,10 @@
+21.06.22
+
+1-6:  untrustworthy
+
+7-14: randoom
+
+nruns = 10 # number of runs
+iterations = 20 # iteration to run the SARSA for
+
+end reward was still 10 and -10 --> need changing to 1000 and -1000

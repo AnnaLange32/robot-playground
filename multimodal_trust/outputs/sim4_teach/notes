@@ -1,0 +1,7 @@
+with assistant that is either trust (cond 1) non trust (cond 2) or random 8(cond 3)
+
+nao sees image and gets wn as audio
+
+if reward  < 0 it asks for help and gets both a direction and an additional audio
+
+

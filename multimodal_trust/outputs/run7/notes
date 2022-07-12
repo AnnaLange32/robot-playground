@@ -1,0 +1,9 @@
+run updated to give help request number, run was very slow
+
+1-6 is trustworthy
+7: random
+
+naming is a bit odd
+
+nruns = 10 # number of runs
+iterations = 20 # iteration to run the SARSA for
